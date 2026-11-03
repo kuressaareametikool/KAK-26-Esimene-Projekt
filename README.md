@@ -12,80 +12,206 @@
 
 ## 🎯 Projekti eesmärk
 
-Valige üks neljast teemast, looge sellele oma teenuseidee ning ehitage terviklik veebikogemus. Ühendage loominguline idee, läbimõeldud kujundus ja töötav interaktiivsus.
+Looge koos veebileht, mida teisel tiimil oleks lõbus proovida. Valige üks allolevatest teemadest, mõelge sellele oma lugu ja ehitage väike, töötav veebikogemus.
 
-Projekti käigus harjutate:
+Projektipäevade jooksul saate:
 
-- HTML-i abil sisu ja lehestruktuuri loomist;
-- CSS-i abil kujundamist ning mobiilivaate tegemist;
-- JavaScriptiga kasutaja tegevustele reageerimist;
-- ülesannete jagamist, GitHubi kasutamist ja oma töö selgitamist;
-- AI soovituste kriitilist hindamist;
-- testimist, tagasiside andmist ja paranduste tegemist.
+- teha koostööd teiste kursuste ja õpperühmade õppijatega;
+- jagada ülesandeid ning ühendada oma ideed üheks tervikuks;
+- katsetada HTML-i, CSS-i ja JavaScripti;
+- kasutada AI-d ideepartneri ja abilisena;
+- proovida teiste tiimide lahendusi ning aidata neid paremaks teha.
 
-**Edukas tulemus on väike, aga lõpuni toimiv teenus.** Valitud idee peab väljenduma ka lehe tekstides, visuaalides ja funktsioonides. Kriisiplaneerija puhul hinnatakse eelkõige selgust ja praktilisust; huumor ei ole kohustuslik.
+**Igaüks peaks saama midagi ise teha, midagi uut proovida ja tiimi tulemusse panustada.** Aidake üksteist, küsige julgelt nõu ja jätke ruumi ka veidratele ideedele.
+
+Lõpptulemusel võiks olla oma nägu, üks algusest lõpuni töötav põhitegevus ja vähemalt üks meeldejääv "easter egg".
 
 ## 🎲 1. Valige üks neljast teemast
 
-„Salajane internet“ on ühine katuseteema: ehitate ühe erilise teenuse, portaali või tööriista. See võib olla naljakas, futuristlik, müstiline või päriselus kasulik. Salajasus tähendab siin avastamisrõõmu ja ootamatut ideed; päris peidetud võrku ega ligipääsupiiranguid ehitada pole vaja.
+„Salajane internet“ on koht teenustele, mida tavalisest veebist naljalt ei leia. Siin saab broneerida ajareise, leida rösterile kaaslase, valmistuda kriisiks või avastada, miks üksikule saarele ei tasu kaasa võtta viit telefoni.
 
-Tiimid valivad või loosivad ühe alloleva teema. Sama teema võib olla mitmel tiimil, kui teenuse lugu, kujundus ja kasutajateekond on erinevad. Valida tuleb üks neist neljast teemast; selle sisu ja kujunduse loote ise.
+Valige või loosige tiimiga üks teema. Andke teenusele oma nimi, mõelge välja selle maailm ja otsustage, mida kasutaja teie lehel teha saab.
+
+**Allolevad küsimused ja näited on inspiratsiooniks. Kõike ei pea teostama.** Valige üks jõukohane põhiidee ning ehitage selle ümber töötav ja meeldejääv kogemus. Sama teema võib olla mitmel tiimil — teie tegelased, kujundus, huumor ja lahendus muudavad selle omaks.
 
 ### 1. ⏳ Ajareisibüroo „Eile“
 
-**Lugu:** tavalisest rannapuhkusest on kõrini. Teie reisibüroo viib kliendid dinosauruste aega, keskaegsesse Kuressaarde või aastasse 2300.
+#### Lugu
 
-- **Põhitegevus:** vali ajastu, reisijate arv ja kestus → saa hind ning reisikava.
-- **Pakkumised:** vähemalt kolm ajastut oma kirjelduse ja hinnaga.
-- **Abifunktsioon:** filtreeri reise ohuastme või eelarve järgi.
-- **Vau-hetk:** ajaparadoksi hoiatus või ajastule vastavalt muutuv kujundus.
+Aastal 2086 on tavaline turism muutunud lootusetult igavaks. Kõik on juba Kuul käinud ning Marsi hotellide hommikusöögid ei üllata enam kedagi. Teie ettevõte on leidnud uue turu: puhkus minevikus ja tulevikus.
+
+Kahjuks on ajareisimisel omad pisiprobleemid. Klient võib kogemata kohtuda iseendaga, dinosaurused ei tunnista reisikindlustust ning keskaegses Kuressaares ei saa telefoniga maksta.
+
+Teie ülesanne on luua reisibüroo, mis suudab need väikesed ebamugavused suurepärasteks müügiargumentideks muuta.
+
+#### Tiimi missioon
+
+Looge ajareisibüroo veebileht, kus külastaja saab tutvuda sihtkohtadega, valida reisi ning panna kokku oma ajapuhkuse.
+
+**Põhitegevuse näide:** vali ajastu → määra reisijate arv ja reisi kestus → vali lisateenused → saa hind ning reisikava.
+
+#### Mõtteid käivitamiseks
+
+- Millistesse ajastutesse teie büroo viib ja miks peaks keegi sinna tahtma?
+- Kas pakute dinosauruste safarit, keskaegset spaapuhkust või nädalavahetust tulevikus?
+- Millest sõltub reisi hind? Kas tagasisõit on hinna sees?
+- Millised reisid sobivad peredele ja millised ainult väga julgetele?
+- Mida teha, kui klient muudab kogemata ajalugu?
+- Milliseid esemeid ei tohi minevikku kaasa võtta?
+- Kas ajaparadoksi kindlustus on vabatahtlik või tungivalt soovituslik?
+
+#### Võimalikud lõbusad lisad
+
+- Ajastule vastavalt muutuv kujundus.
+- Ajaparadoksi hoiatus kasutaja valikute põhjal.
+- Ebatavalised lisateenused: dinosaurusetõrje, kuninglik ihukaitsja või mälukustutus.
+- Rahulolevate ja valesse sajandisse jäänud klientide arvustused.
+- Pakkumise juurde tekkiv nimekiri asjadest, mida kaasa pakkida.
+
+#### Eesmärk
+
+**Teine tiim saab teie lehel endale ajareisi kokku panna ja saab vähemalt ühe üllatuse, mida ta ei osanud oodata.** Tulemus peab sõltuma tema valikutest.
 
 ### 2. 🤖 Robotite tutvumisportaal
 
-**Lugu:** ka röster võib tunda üksindust. Aidake robotitel leida kaaslane, kellega sobivad nii huvid, laadimispistik kui ka operatsioonisüsteem.
+#### Lugu
 
-- **Põhitegevus:** sisesta roboti eelistused → saa põhjendatud sobivussoovitused.
-- **Pakkumised:** vähemalt kolm väljamõeldud robotiprofiili.
-- **Abifunktsioon:** filtrid, lemmikud või profiilide võrdlus.
-- **Vau-hetk:** humoorikas esimese kohtingu plaan või „ühenduse loomise“ animatsioon.
-- **Oluline:** kasutage väljamõeldud tegelasi ja andmeid, mitte klassikaaslaste päris tutvumisprofiile.
+Tulevikus teevad robotid peaaegu kõike, aga sobiva kaaslase leidmine on endiselt keeruline.
 
-### 3. 🎒 Sõjakriisi plaan — „Valmis, mitte paanikas“
+Röster otsib kedagi sooja südamega. Robottolmuimeja on tüdinud pealiskaudsetest suhetest. Külmkapp tahab kedagi, kes teda kuulaks, ning printer on juba kolmandat päeva emotsionaalselt võrguühenduseta.
 
-**Lugu:** pere tahab olla kriisiks valmis, kuid vajalikud tegevused ja varud on laiali eri nimekirjades. Looge rahulik ja selge tsiviilvalmiduse planeerija.
+Teie tiim loob tutvumisportaali robotitele. Ainult ilusast profiilipildist ei piisa: sobima peavad ka laadimispistikud, tarkvaraversioonid ja suhtumine inimkonda.
 
-- **Põhitegevus:** sisesta inimeste arv, planeeritav päevade arv ja olemasolevad varud → saa puuduvate varude nimekiri ning pere tegevusplaani mall.
-- **Valikud:** vähemalt kolm osa, näiteks kodused varud, side ja kontaktid ning lahkumiseks vajalikud asjad.
-- **Abifunktsioon:** märgi tegevused tehtuks ja salvesta edenemine selles brauseris või loo prinditav kokkuvõte.
-- **Vau-hetk:** interaktiivne kriisikott või täituv valmisoleku kontrollnimekiri.
-- **Oluline:** lähtuge tsiviilkaitsest. Ohutussoovitustele lisage kontrollitud ametlik allikas, näiteks Ole Valmis või Päästeamet. Arvutuslikud eeldused peavad olema nähtavad; kontrollnimekirja täitumine ei ole ohutuse garantii. Päris koduaadresse ja tundlikke pereandmeid pole demonstratsiooniks vaja.
+#### Tiimi missioon
+
+Mõelge välja oma robotite maailm ja looge portaal, mis aitab kasutajal leida sobiva robotikaaslase.
+
+**Põhitegevuse näide:** vali oma roboti omadused ja eelistused → vaata sobivaid kandidaate → saa põhjendatud soovitus ning esimese kohtingu idee.
+
+#### Mõtteid käivitamiseks
+
+- Millised robotid teie portaali kasutavad?
+- Kas roboti jaoks on tähtsam ühine hobi, aku kestvus või sama laadimispistik?
+- Millised omadused teevad kaks robotit sobivaks?
+- Mis on roboti jaoks täielik suhtevälistus?
+- Kas kohvimasin ja röster on ideaalne hommikupaar?
+- Mis juhtub, kui ideaalne kaaslane kasutab konkureerivat operatsioonisüsteemi?
+- Kuidas näeks välja kahe kodumasina esimene kohting?
+
+#### Võimalikud lõbusad lisad
+
+- Robotiprofiilid koos hobide, veidruste ja veateadetega.
+- Sobivusprotsent ning selle selgitus.
+- Lemmikute nimekiri või kahe roboti võrdlus.
+- Automaatne avasõnum: „Kas sa oled Wi-Fi? Sest ma tunnen ühendust.“
+- Kohtinguplaan laadimisjaamas või elektroonikajäätmete muuseumis.
+- Ebaõnnestunud sobivuse teade: „Ühendus loodud. Ühised huvid puuduvad.“
+
+#### Eesmärk
+
+**Teine tiim leiab teie portaalist robotikaaslase ja saab põhjenduse, mis on korraga loogiline ning naljakas.** Erinevad eelistused peavad mõjutama soovitusi.
+
+Kasutage väljamõeldud tegelasi ja andmeid. Ka röster väärib originaalset isiksust.
+
+### 3. 🎒 Kriisiplaan „Valmis, mitte paanikas“
+
+#### Lugu
+
+Ühel õhtul kaob elekter. Telefonis on akut 12%, taskulambi asukohta ei mäleta keegi ja selgub, et kodused toiduvarud koosnevad peamiselt ketšupist ning ühest kahtlasest konservist.
+
+Üks pereliige otsib küünlaid, teine proovib aru saada, kas internet on katki või lihtsalt ruuter välja lülitatud. Kõigil on mõni hea mõte, aga ühist plaani pole.
+
+Teie tiimi ülesanne on aidata ühel väljamõeldud perel kriisiks paremini valmistuda. Vajalik info peab olema lihtne, rahulik ja ühest kohast leitav.
+
+#### Tiimi missioon
+
+Looge tsiviilvalmiduse planeerija, kus kasutaja saab kirjeldada oma olukorda ning koostada selle põhjal varude nimekirja või tegevusplaani.
+
+**Põhitegevuse näide:** sisesta inimeste arv ja planeeritav päevade arv → märgi olemasolevad varud → saa puuduvate asjade nimekiri ning järgmised tegevused.
+
+#### Mõtteid käivitamiseks
+
+- Kuidas saab pere kiiresti teada, millised vajalikud asjad on puudu?
+- Kuidas jagada pikk nimekiri väikesteks ja jõukohasteks sammudeks?
+- Kuidas teha plaan arusaadavaks ka lapsele või vanavanemale?
+- Millised kategooriad aitavad varusid korrastada?
+- Kuidas märkida, et mõni asi on juba olemas või tegevus tehtud?
+- Milline võiks olla prinditav plaan olukorraks, kus internetti pole?
+- Kuidas näidata edenemist nii, et see innustaks valmistuma?
+
+#### Võimalikud lisad
+
+- Interaktiivne kriisikott, kuhu saab vajalikke esemeid lisada.
+- Tehtuks märgitavad tegevused.
+- Edenemise salvestamine samas brauseris.
+- Prinditav pere tegevusplaan.
+- Varude jaotamine kategooriatesse: toit, vesi, valgus, side ja muu vajalik.
+- Vaade „Millest alustada?“, mis näitab mõnda järgmist tegevust.
+
+#### Eesmärk
+
+**Teine tiim saab teie tööriistaga koostada lihtsa plaani ja oskab öelda, milline oleks tema järgmine ettevalmistus.** Lahendus peab aitama infot korrastada ja valikuid teha.
+
+Selle teema mängulisus võib tulla kujundusest, interaktiivsest kriisikotist ja avastamisest. Ohutussoovitustele lisage kontrollitud ametlik allikas, näiteks Ole Valmis või Päästeamet. Näidake arvutuste eeldusi ja kasutage demonstratsioonis väljamõeldud andmeid. Täidetud kontrollnimekiri ei ole ohutuse garantii.
 
 ### 4. 🏝️ Üksiku saare ellujäämisbüroo
 
-**Lugu:** oled sattunud saarele ja pagasis on ruumi ainult viiele esemele. Kas valid veefiltri, võrkkiige või Wi-Fi ruuteri?
+#### Lugu
 
-- **Põhitegevus:** vali saar ja piiratud kogus varustust → saa mänguline hinnang ning oma valikutest sõltuv stsenaarium.
-- **Pakkumised:** vähemalt kolm eri tingimustega saart või ekspeditsioonipaketti.
-- **Abifunktsioon:** filtreeri varustust otstarbe järgi või näita kaalu- ja mahupiirangut.
-- **Vau-hetk:** ootamatu sündmus paneb valitud varustuse proovile.
-- **Oluline:** tegemist on väljamõeldud mängulise simulatsiooniga, mitte päris ellujäämisjuhendiga.
+Palju õnne! Olete võitnud tasuta reisi troopilisele saarele.
 
-### Teema isikupärastamine
+Väikeses kirjas oli küll mainitud, et hotell, transport tagasi ja ülejäänud tsivilisatsioon ei kuulu paketti. Reisikorraldaja klienditugi vastab päringutele järgmise täiskuu ajal.
 
-Lisage valitud teenusele oma nimi, visuaalne identiteet ja üks eripära. Näiteks makstakse mälestustega, teenus töötab ainult öösel või klient elab vales sajandis. Tõsisema kriisiplaneerija puhul väljendub loomingulisus selges ja kaasavas kasutajaliideses, mitte ohu üle nalja tegemises.
+Kaasa mahub ainult viis eset. Valikus on muu hulgas veefilter, võrkkiik, kummipart ja Wi-Fi ruuter. Kõik tunduvad omal moel vajalikud, kuid saare ilmastik ja ootamatud sündmused võivad teie plaani kiiresti muuta.
 
-Kõikide teemade puhul kehtivad samad kursuste rollid ja põhikriteeriumid. Teemakirjelduste funktsioonid on soovitused: samaväärse lahenduse võib õpetajaga kokku leppida. „Pakkumine“ võib tähendada ka plaani osa, stsenaariumi või muud teemasse sobivat valikut. Päris AI-teenuse ühendamine pole ühegi teema puhul nõutud.
+#### Tiimi missioon
 
-### Enne kodeerimist vastake
+Looge mänguline saareseikluse planeerija, kus kasutaja valib sihtkoha ja varustuse ning saab oma valikutest sõltuva tulemuse või loo.
 
-1. Mis on teenuse nimi ja mida see pakub?
-2. Kes on kasutaja ja mida ta tahab saavutada?
-3. Mis teeb teenuse eriliseks, kasulikuks või ootamatuks?
-4. Milline on kasutaja üks põhitegevus algusest lõpuni?
-5. Millise tulemuse kasutaja selle tegevuse järel saab?
-6. Mis on teie „vau-hetk“?
+**Põhitegevuse näide:** vali saar → vali kuni viis eset → alusta seiklust → saa oma varustusest ja saare tingimustest sõltuv tulemus.
 
-Kirjeldage ideed projekti dokumentatsioonis 5–8 lausega. Joonistage lihtne kavand arvuti- ja mobiilivaatele.
+#### Mõtteid käivitamiseks
+
+- Mille poolest teie saared erinevad?
+- Kas saarel sajab pidevalt, elavad uudishimulikud ahvid või toimub igal õhtul kookospähklite disko?
+- Millised esemed on kasulikud ja millised lihtsalt ahvatlevad?
+- Kas mõni ootamatu esemete kombinatsioon annab eelise?
+- Mis juhtub, kui saabub torm või ahv varastab ühe eseme?
+- Kas Wi-Fi ruuterist on kasu, kui saarel pole elektrit ega internetti?
+- Kuidas muutub tulemus, kui kasutaja valib järgmisel katsel teise varustuse?
+
+#### Võimalikud lõbusad lisad
+
+- Varustuse valimine mahupiiranguga seljakotti.
+- Esemete filtreerimine otstarbe järgi.
+- Juhuslik sündmus, mis paneb valitud varustuse proovile.
+- Esemete kombinatsioonidest tekkivad erilised tulemused.
+- Mänguline saarepäevik.
+- Lõpukokkuvõte: „Elasid mugavalt“, „Ahvid valisid sind juhiks“ või „Ruuteril oli tore puhkus“.
+
+#### Eesmärk
+
+**Teine tiim proovib vähemalt kahte erinevat varustuse kombinatsiooni ja avastab, kuidas tema valikud seikluse käiku muudavad.** Tulemus peab arvestama valitud esemeid ja saart.
+
+Tegemist on väljamõeldud mängulise simulatsiooniga. Tulemused võivad olla loomingulised ja absurdsed; see ei ole päris ellujäämisjuhend.
+
+### ✨ Tehke teema enda omaks
+
+Andke teenusele oma nimi ja iseloom. Mõelge läbi selle värvid, tegelased, tekstid ja väikesed üllatused.
+
+Võite lisada näiteks:
+
+- ebatavalise maksevahendi;
+- kummalise klienditoe;
+- väljamõeldud klientide arvustused;
+- ootamatu lisateenuse;
+- peidetud nalja, mille leidmiseks on lehel vihje;
+- valikutest sõltuva üllatuse.
+
+Kriisiplaneerija puhul hoidke soovitused praktilised ning väljendage loomingulisust kujunduses ja kasutajakogemuses.
+
+**Valige üks meeldejääv eripära ja tehke see korralikult tööle.**
+
 
 ## 👥 2. Meeskond ja rollid
 
