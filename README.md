@@ -337,44 +337,7 @@ Terve vestluse kopeerimine pole vajalik. Tervet veebilehte ei tellita AI-lt ühe
 
 **Päeva lõpuks:** töötav veebileht, GitHubi projekt, kontrollitud nõuded ja esitlus.
 
-**III kursuse kontrollpunkt 3:** lõppkontroll, kriitiliste vigade järelkontroll ja aus ülevaade teadaolevatest puudustest.
 
-### Kui kasutada ainult ühte projektipäeva
-
-Ühe päeva versioonis tehke üks leht, kolm pakkumist ning üks põhitegevus koos tulemusega. Eraldi abifunktsioon ja ootamatu kliendisoov on siis vabatahtlikud. Kavand võib olla paberil ning kolm kontrollpunkti on lühikesed ülevaatused töö alguses, keskel ja lõpus. Rollid, AI kasutamise jälg, mobiilivaade ja teise tiimi test jäävad alles. Õpetaja kinnitab mahu enne töö algust.
-
-## 🃏 6. Ootamatu kliendisoov
-
-Kui põhiversioon töötab, annab õpetaja igale tiimile ühe muudatuskaardi. Ülesande ulatus kohandatakse tiimi taseme ja järelejäänud ajaga.
-
-- **Lihtne režiim:** teenust kasutavad tehnoloogiat kartvad kliendid. Tehke põhitegevus neile selgemaks.
-- **Võrdlemine:** kasutaja tahab enne otsust vähemalt kahte pakkumist võrrelda.
-- **Saadavus:** osa teenuseid pole hetkel saadaval. Näidake seda ning takistage vale valikut.
-- **Eksinud kasutaja:** kasutaja sisestab valed andmed. Näidake, kuidas ta saab vea parandada ilma kõike uuesti alustamata.
-- **Salajane VIP-teenus:** lisage loogilise vihjega leitav eripakkumine.
-- **Eelarve:** kasutaja sisestab eelarve ja näeb, millised variandid talle sobivad.
-
-Dokumenteerige, millise kaardi saite ja mida selle lahendamiseks muutsite.
-
-## 🧪 7. Testimine
-
-III kursus aitab testimist kavandada ja tulemusi kontrollida. Teostajad parandavad enda lahendust ise.
-
-### Ühine lõppkontroll
-
-- [ ] Esmakasutaja saab aru, mis teenusega on tegemist.
-- [ ] Põhitegevus töötab algusest lõpuni avalikul veebilingil.
-- [ ] Kolm pakkumist või valikuvarianti on olemas.
-- [ ] Abifunktsioon töötab, kui see kuulub kinnitatud mahtu.
-- [ ] Tühi ja vigane sisend saavad arusaadava tagasiside.
-- [ ] Kui otsing või filter ei leia midagi, kuvatakse selge teade.
-- [ ] Tegevust saab korrata või lähtestada.
-- [ ] Mobiilivaates ei jää oluline sisu peitu.
-- [ ] Nupud, väljad ja lingid on kasutatavad klaviatuuriga.
-- [ ] Pildid ja lingid töötavad ning konsoolis ei teki JS-vigu.
-- [ ] „Vau-hetk“ toimib ega takista põhitegevust.
-- [ ] Iga teostaja oskab oma panust selgitada.
-- [ ] AI kasutamise jälg ja III kursuse kontrollipäevik on olemas.
 
 ## 📦 8. Esitamine
 
