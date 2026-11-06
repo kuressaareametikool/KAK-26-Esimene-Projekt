@@ -1,6 +1,8 @@
 # **Repod:**
-https://github.com/Lepsjoosep/groupb_projekt
-https://github.com/RagnarOige/Ajareisibyroo / https://ajareisibyroo.vercel.app/
+
+- https://github.com/Lepsjoosep/groupb_projekt
+- 
+- https://github.com/RagnarOige/Ajareisibyroo / https://ajareisibyroo.vercel.app/
 
 
 
